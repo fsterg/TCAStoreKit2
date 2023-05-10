@@ -1,0 +1,102 @@
+{
+  "identifier" : "AD623D34",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "254926A2",
+      "localizations" : [
+
+      ],
+      "name" : "Standard",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "BF861361",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "This is product A",
+              "displayName" : "Product A",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.temp.productA",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "ProductA",
+          "subscriptionGroupID" : "254926A2",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "A2D9DDD9",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "This is product B",
+              "displayName" : "Product B",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.temp.productB",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "ProductB",
+          "subscriptionGroupID" : "254926A2",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "99.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "58926098",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "This is product C",
+              "displayName" : "Product C",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.temp.productC",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "ProductC",
+          "subscriptionGroupID" : "254926A2",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
